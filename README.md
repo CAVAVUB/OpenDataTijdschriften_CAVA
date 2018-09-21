@@ -8,7 +8,7 @@
 * _De dataset wordt beschikbaar gesteld in csv-formaat en via WikiData, waar de set verrijkt kan worden._
 
 ## https://creativecommons.org/publicdomain/zero/1.0/
-* _De metadata worden beschikbaar gesteld onder de CC0-licentie (https://creativecommons.org/publicdomain/zero/1.0/). Deze dataset bevat (voorlopig) geen beelden, maar uiteraard zijn deze tijdschriften alle nog auteursrechtelijk beschermd (http://rightsstatements.org/vocab/InC/1.0/)._
+* _De metadata worden beschikbaar gesteld onder de CC0-licentie (https://creativecommons.org/publicdomain/zero/1.0/). Deze dataset bevat (voorlopig) geen beelden, maar uiteraard zijn deze tijdschriften in hun totaliteit auteursrechtelijk beschermd (http://rightsstatements.org/vocab/InC/1.0/)._
 
 ## Gebruiksrichtlijnen
 * _Gelieve bij gebruik van deze dataset te verwijzen naar het Centrum voor Academische en Vrijzinnige Archieven (BE CAVA Collectie Tijdschriften)._
