@@ -15,4 +15,4 @@ data beschikbaar is._
 * _De metadata worden beschikbaar gesteld onder de CC0-licentie (https://creativecommons.org/publicdomain/zero/1.0/). Deze dataset bevat (voorlopig) geen beelden, maar uiteraard zijn deze tijdschriften alle nog auteursrechtelijk beschermd (http://rightsstatements.org/vocab/InC/1.0/)._
 
 ## Gebruiksrichtlijnen
-* _Gelieve bij gebruik van deze dataset te verwijzen naar het Centrum voor Academische en Vrijzinnige Archieven (BE CAVA Collectie Tijdschriften)* _www.cavavub.be*
+* _Gelieve bij gebruik van deze dataset te verwijzen naar het Centrum voor Academische en Vrijzinnige Archieven (BE CAVA Collectie Tijdschriften)_* _www.cavavub.be_
