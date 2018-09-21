@@ -1,7 +1,7 @@
 # _Centrum voor Academische en Vrijzinnige Archieven (CAVA)_
 * _CAVA verzamelt, bewaart en beheert het analoge en digitale cultureel erfgoed van zowel de Nederlandstalige vrijzinnig-humanistische organisaties en personen in Vlaanderen en Brussel als van de VUB._
 * _CAVA beschikt over een uitgebreide collectie vrijzinnige tijdschriften, waaronder een heel aantal regionale (meer dan 100 titels)._
-* _CAVA stelde op basis van haar collectie een overzicht samen van de vrijzinnige regionale tijdschriften in Vlaanderen en Brussel en stelt de metadata hierover beschikbaar via Wikidata. CAVA roept de vrijzinnige erfgoedgemeenschap op om deze gegevens te verrijken en aan te vullen._
+* _CAVA stelde op basis van haar collectie een overzicht samen van de vrijzinnige regionale tijdschriften in Vlaanderen en Brussel en stelt de metadata hierover beschikbaar. CAVA roept de vrijzinnige erfgoedgemeenschap op om deze gegevens te verrijken en aan te vullen._
 
 ## _Vrijzinnige tijdschriften_
 * _De dataset bevat o.a. de titel, uitgever, plaats van uitgave, datering en (indien voorhanden) ISSN-nummer van de tijdschriften._
